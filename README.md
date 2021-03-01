@@ -10,4 +10,7 @@ The programs developed during the course work of PRIP at ISI Kolkata.
 - Implementation of Linear Regression using Batch Gradient Descend.
 - The Portland Housing dataset from the Kaggle is used for training and testing of models.
 
+## 2. SVM from scratch
+
+
 
